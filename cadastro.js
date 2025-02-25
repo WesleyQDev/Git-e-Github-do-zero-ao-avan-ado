@@ -6,3 +6,6 @@ function singUp(email){
 function mostraMensagem(email){
     return 'bem vindooo'
 }
+function apenasUmafuncão(email){
+    return 'Sim está errado'
+}
